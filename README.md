@@ -1,2 +1,2 @@
-# The Word Game Named As World Game
-666 2333
+# Leetcode
+## V1.0000
